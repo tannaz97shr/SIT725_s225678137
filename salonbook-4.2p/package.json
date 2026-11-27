@@ -1,0 +1,14 @@
+{
+  "name": "salonbook-4.2p",
+  "version": "1.0.0",
+  "description": "SalonBook services application with MongoDB persistence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^9.0.0"
+  }
+}
